@@ -69,9 +69,9 @@ const ListItem = ({ children, active, ...linkProps }) => {
     <li>
       <Link {...linkProps}>
         <a
-          className={`text-white ${
-            active ? "font-bold" : "font-normal"
-          } hover:font-bold`}
+          className={`text-white text-sm ${
+            active ? "font-semibold" : "font-normal"
+          } hover:font-semibold`}
         >
           {children}
         </a>

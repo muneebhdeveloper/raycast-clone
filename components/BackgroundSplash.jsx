@@ -14,7 +14,7 @@ export default function BackgroundSplash() {
       >
         <img
           srcSet="https://d1y491f86z4988.cloudfront.net/assets/splash-apps@2x-993c98750b6bb30e0d1be1416526c220263a8983dd5afb22a4647f5d97891c13.png 2x"
-          className="relative left-1/2 -translate-x-1/2 min-w-[470px] max-w-[100%] lg:mt-24"
+          className="relative left-1/2 -translate-x-1/2 min-w-[470px] max-w-[100%] lg:mt-12"
           src="https://d1y491f86z4988.cloudfront.net/assets/splash-apps-f26c822c048fe92be12ee9e6e6c321ea633ed4d7f0fad080271b2777d38083c6.png"
           alt="splash"
         />
